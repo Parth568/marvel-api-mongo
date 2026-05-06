@@ -46,10 +46,10 @@
   .container-character-image {
     background-color: #ffffff;
     padding: 0.5em;
-    height: 9.37em;
-    width: 9.37em;
+    height: 12em;
+    width: 12em;
     display: block;
-    margin: auto;
+    margin: 1em auto;
     border-radius: 50%;
     overflow: hidden;
   }
@@ -61,8 +61,7 @@
     border-radius: 50%;
   }
   .character-name {
-    margin: 30px;
-    padding: 0.5em 0 0.8em 0;
+    margin: 1em 0 0.5em;
     text-align: center;
     color: #ffffff;
     text-transform: uppercase;
@@ -70,7 +69,7 @@
     font-weight: 600;
   }
   .character-description {
-    margin-top: -20px;
+    margin-top: 0.5em;
     text-align: justify;
     color: #a0a0a6;
     line-height: 2em;
