@@ -10,9 +10,6 @@
     "pages:dev": "wrangler pages dev",
     "deploy": "wrangler pages deploy"
   },
-  "dependencies": {
-    "mongodb": "^6.10.0"
-  },
   "devDependencies": {
     "vite": "^5.4.1",
     "wrangler": "^3.80.0"

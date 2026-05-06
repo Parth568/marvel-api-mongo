@@ -1,21 +1,8 @@
-import { MongoClient } from "mongodb";
+import characters from "../../../data/marvel-characters.json";
 
-export async function onRequestGet({ env }) {
-  const client = new MongoClient(env.DB_CONNECTION_STRING, {
-    serverSelectionTimeoutMS: 8000,
-  });
-  try {
-    await client.connect();
-    const docs = await client
-      .db("marvel_db")
-      .collection("marvelCharacters")
-      .find()
-      .sort({ name: 1 })
-      .toArray();
-    return Response.json(docs);
-  } catch (error) {
-    return Response.json({ message: error.message }, { status: 500 });
-  } finally {
-    await client.close().catch(() => {});
-  }
+export async function onRequestGet() {
+  const sorted = [...characters].sort((a, b) =>
+    (a.name || "").localeCompare(b.name || ""),
+  );
+  return Response.json(sorted);
 }

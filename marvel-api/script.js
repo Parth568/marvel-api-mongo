@@ -42,9 +42,7 @@ async function loadAllCharacters() {
     );
   } catch (error) {
     console.error("loadAllCharacters error:", error);
-    showMessage(
-      "Could not connect to backend. Is marvel-server running on localhost:5500?",
-    );
+    showMessage("Could not load characters from the API.");
   }
 }
 
