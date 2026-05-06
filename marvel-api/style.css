@@ -51,12 +51,14 @@
     display: block;
     margin: auto;
     border-radius: 50%;
+    overflow: hidden;
   }
   .container-character-image img {
+    display: block;
     width: 100%;
-    position: relative;
-    width: block;
-    border-radius: 30%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
   }
   .character-name {
     margin: 30px;
