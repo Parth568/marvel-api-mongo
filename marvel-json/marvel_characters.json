@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "name": "A-Bomb",
+    "description": "Full Name: Richard Milhouse Jones, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Abe Sapien",
+    "description": "Full Name: Abraham Sapien, Publisher: Dark Horse Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Abin Sur",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Abomination",
+    "description": "Full Name: Emil Blonsky, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Abraxas",
+    "description": "Full Name: Abraxas, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/5-abraxas.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Absorbing Man",
+    "description": "Full Name: Carl Creel, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Adam Monroe",
+    "description": "Full Name: N/A, Publisher: NBC - Heroes",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/7-adam-monroe.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Adam Strange",
+    "description": "Full Name: Adam Strange, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/8-adam-strange.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Agent Bob",
+    "description": "Full Name: Bob, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/10-agent-bob.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Agent Zero",
+    "description": "Full Name: Christoph Nord, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Air-Walker",
+    "description": "Full Name: Gabriel Lan, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/12-air-walker.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Ajax",
+    "description": "Full Name: Francis, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/13-ajax.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Alan Scott",
+    "description": "Full Name: Alan Ladd Wellington Scott, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Alex Mercer",
+    "description": "Full Name: Alexander J. Mercer, Publisher: Wildstorm",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/15-alex-mercer.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Alfred Pennyworth",
+    "description": "Full Name: Alfred Thaddeus Crane Pennyworth, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/17-alfred-pennyworth.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Alien",
+    "description": "Full Name: Xenomorph, Publisher: Dark Horse Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/18-alien.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Amazo",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/20-amazo.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Angel",
+    "description": "Full Name: Liam, Publisher: Dark Horse Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/23-angel.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Angel",
+    "description": "Full Name: Warren Kenneth Worthington III, Publisher: Archangel",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/24-angel.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Angel Dust",
+    "description": "Full Name: Christina, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/25-angel-dust.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Angel Salvadore",
+    "description": "Full Name: Angel Salvadore Bohusk, Publisher: Tempest",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/26-angel-salvadore.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Animal Man",
+    "description": "Full Name: Bernhard Baker, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Annihilus",
+    "description": "Full Name: Annihilus, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Ant-Man",
+    "description": "Full Name: Hank Pym, Publisher: Giant-Man",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Ant-Man II",
+    "description": "Full Name: Scott Lang, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/31-ant-man-ii.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Anti-Monitor",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/32-anti-monitor.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Anti-Venom",
+    "description": "Full Name: Eddie Brock, Publisher: Toxin",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/34-anti-venom.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Apocalypse",
+    "description": "Full Name: En Sabah Nur, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/35-apocalypse.jpg"
+  },
+  {
+    "id": "36",
+    "name": "Aquababy",
+    "description": "Full Name: Arthur Curry, Jr., Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/36-aquababy.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Aqualad",
+    "description": "Full Name: Garth, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/37-aqualad.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Aquaman",
+    "description": "Full Name: Orin, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Arachne",
+    "description": "Full Name: Julia Carpenter, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/39-arachne.jpg"
+  },
+  {
+    "id": "40",
+    "name": "Archangel",
+    "description": "Full Name: Warren Kenneth Worthington III, Publisher: Angel",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/40-archangel.jpg"
+  },
+  {
+    "id": "41",
+    "name": "Arclight",
+    "description": "Full Name: Philippa Sontag, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/41-arclight.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Ardina",
+    "description": "Full Name: Ardina, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/42-ardina.jpg"
+  },
+  {
+    "id": "43",
+    "name": "Ares",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg"
+  },
+  {
+    "id": "44",
+    "name": "Ariel",
+    "description": "Full Name: Ariel, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/44-ariel.jpg"
+  },
+  {
+    "id": "45",
+    "name": "Armor",
+    "description": "Full Name: Hisako Ichiki, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/45-armor.jpg"
+  },
+  {
+    "id": "48",
+    "name": "Atlas",
+    "description": "Full Name: Erik Josten, Publisher: Goliath",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/48-atlas.jpg"
+  },
+  {
+    "id": "49",
+    "name": "Atlas",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/49-atlas.jpg"
+  },
+  {
+    "id": "52",
+    "name": "Atom Girl",
+    "description": "Full Name: Salu Digby, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/52-atom-girl.jpg"
+  },
+  {
+    "id": "53",
+    "name": "Atom II",
+    "description": "Full Name: Ray Palmer, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/53-atom-ii.jpg"
+  },
+  {
+    "id": "56",
+    "name": "Aurora",
+    "description": "Full Name: Jeanne-Marie Beaubier, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/56-aurora.jpg"
+  },
+  {
+    "id": "57",
+    "name": "Azazel",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/57-azazel.jpg"
+  },
+  {
+    "id": "58",
+    "name": "Azrael",
+    "description": "Full Name: Michael Washington Lane, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/58-azrael.jpg"
+  },
+  {
+    "id": "60",
+    "name": "Bane",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/60-bane.jpg"
+  },
+  {
+    "id": "61",
+    "name": "Banshee",
+    "description": "Full Name: Sean Cassidy, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/61-banshee.jpg"
+  },
+  {
+    "id": "62",
+    "name": "Bantam",
+    "description": "Full Name: Roberto Velasquez, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/62-bantam.jpg"
+  },
+  {
+    "id": "63",
+    "name": "Batgirl",
+    "description": "Full Name: Barbara Gordon, Publisher: Oracle",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/63-batgirl.jpg"
+  },
+  {
+    "id": "66",
+    "name": "Batgirl IV",
+    "description": "Full Name: Cassandra Cain, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/66-batgirl-iv.jpg"
+  },
+  {
+    "id": "68",
+    "name": "Batgirl VI",
+    "description": "Full Name: Stephanie Brown, Publisher: Spoiler",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/68-batgirl-vi.jpg"
+  },
+  {
+    "id": "69",
+    "name": "Batman",
+    "description": "Full Name: Terry McGinnis, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/69-batman.jpg"
+  },
+  {
+    "id": "70",
+    "name": "Batman",
+    "description": "Full Name: Bruce Wayne, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg"
+  },
+  {
+    "id": "71",
+    "name": "Batman II",
+    "description": "Full Name: Dick Grayson, Publisher: Nightwing",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/71-batman-ii.jpg"
+  },
+  {
+    "id": "72",
+    "name": "Battlestar",
+    "description": "Full Name: Lemar Hoskins, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/72-battlestar.jpg"
+  },
+  {
+    "id": "73",
+    "name": "Batwoman V",
+    "description": "Full Name: Katherine Rebecca Kane, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/73-batwoman-v.jpg"
+  },
+  {
+    "id": "75",
+    "name": "Beast",
+    "description": "Full Name: Henry Philip McCoy, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/75-beast.jpg"
+  },
+  {
+    "id": "76",
+    "name": "Beast Boy",
+    "description": "Full Name: Garfield Mark Logan, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/76-beast-boy.jpg"
+  },
+  {
+    "id": "78",
+    "name": "Ben 10",
+    "description": "Full Name: Benjamin Kirby Tennyson, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/78-ben-10.jpg"
+  },
+  {
+    "id": "79",
+    "name": "Beta Ray Bill",
+    "description": "Full Name: Beta Ray Bill (translation of his Korbinite name), Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/79-beta-ray-bill.jpg"
+  },
+  {
+    "id": "80",
+    "name": "Beyonder",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/80-beyonder.jpg"
+  },
+  {
+    "id": "81",
+    "name": "Big Barda",
+    "description": "Full Name: Barda Free, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/81-big-barda.jpg"
+  },
+  {
+    "id": "82",
+    "name": "Big Daddy",
+    "description": "Full Name: Damon Macready, Publisher: Icon Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/82-big-daddy.jpg"
+  },
+  {
+    "id": "83",
+    "name": "Big Man",
+    "description": "Full Name: Frederick Foswell, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/83-big-man.jpg"
+  },
+  {
+    "id": "84",
+    "name": "Bill Harken",
+    "description": "Full Name: N/A, Publisher: SyFy",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/84-bill-harken.jpg"
+  },
+  {
+    "id": "87",
+    "name": "Bionic Woman",
+    "description": "Full Name: Jamie Sommers, Publisher: Unknown",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/87-bionic-woman.jpg"
+  },
+  {
+    "id": "88",
+    "name": "Bird-Brain",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/88-bird-brain.jpg"
+  },
+  {
+    "id": "92",
+    "name": "Bishop",
+    "description": "Full Name: Lucas Bishop, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/92-bishop.jpg"
+  },
+  {
+    "id": "93",
+    "name": "Bizarro",
+    "description": "Full Name: Bizarro, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/93-bizarro.jpg"
+  },
+  {
+    "id": "95",
+    "name": "Black Adam",
+    "description": "Full Name: Teth-Adam, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/95-black-adam.jpg"
+  },
+  {
+    "id": "96",
+    "name": "Black Bolt",
+    "description": "Full Name: Blackagar Boltagon, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/96-black-bolt.jpg"
+  },
+  {
+    "id": "97",
+    "name": "Black Canary",
+    "description": "Full Name: Laurel Lance, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/97-black-canary.jpg"
+  },
+  {
+    "id": "98",
+    "name": "Black Canary",
+    "description": "Full Name: Dinah Drake Lance, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/98-black-canary.jpg"
+  },
+  {
+    "id": "99",
+    "name": "Black Cat",
+    "description": "Full Name: Felicia Hardy, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/99-black-cat.jpg"
+  },
+  {
+    "id": "100",
+    "name": "Black Flash",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/100-black-flash.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Black Knight III",
+    "description": "Full Name: Dane Whitman, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/102-black-knight-iii.jpg"
+  },
+  {
+    "id": "103",
+    "name": "Black Lightning",
+    "description": "Full Name: Jefferson Pierce, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/103-black-lightning.jpg"
+  },
+  {
+    "id": "104",
+    "name": "Black Mamba",
+    "description": "Full Name: Tanya Sealy, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/104-black-mamba.jpg"
+  },
+  {
+    "id": "105",
+    "name": "Black Manta",
+    "description": "Full Name: David, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/105-black-manta.jpg"
+  },
+  {
+    "id": "106",
+    "name": "Black Panther",
+    "description": "Full Name: T'Challa, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg"
+  },
+  {
+    "id": "107",
+    "name": "Black Widow",
+    "description": "Full Name: Natasha Romanoff, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+  },
+  {
+    "id": "109",
+    "name": "Blackout",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/109-blackout.jpg"
+  },
+  {
+    "id": "110",
+    "name": "Blackwing",
+    "description": "Full Name: Joseph Manfredi, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/110-blackwing.jpg"
+  },
+  {
+    "id": "111",
+    "name": "Blackwulf",
+    "description": "Full Name: Lucian, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/111-blackwulf.jpg"
+  },
+  {
+    "id": "112",
+    "name": "Blade",
+    "description": "Full Name: Eric Brooks, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/112-blade.jpg"
+  },
+  {
+    "id": "114",
+    "name": "Bling!",
+    "description": "Full Name: Roxanne Washington, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/114-bling!.jpg"
+  },
+  {
+    "id": "115",
+    "name": "Blink",
+    "description": "Full Name: Clarice Ferguson, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/115-blink.jpg"
+  },
+  {
+    "id": "118",
+    "name": "Blizzard II",
+    "description": "Full Name: Donald Gill, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/118-blizzard-ii.jpg"
+  },
+  {
+    "id": "119",
+    "name": "Blob",
+    "description": "Full Name: Frederick J. Dukes, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/119-blob.jpg"
+  },
+  {
+    "id": "120",
+    "name": "Bloodaxe",
+    "description": "Full Name: Jackie Lukus, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/120-bloodaxe.jpg"
+  },
+  {
+    "id": "121",
+    "name": "Bloodhawk",
+    "description": "Full Name: Lemuel Krug, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/121-bloodhawk.jpg"
+  },
+  {
+    "id": "126",
+    "name": "Blue Beetle III",
+    "description": "Full Name: Jaime Reyes, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/126-blue-beetle-iii.jpg"
+  },
+  {
+    "id": "127",
+    "name": "Boba Fett",
+    "description": "Full Name: N/A, Publisher: George Lucas",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/127-boba-fett.jpg"
+  },
+  {
+    "id": "130",
+    "name": "Boom-Boom",
+    "description": "Full Name: Tabitha Smith, Publisher: Meltdown",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/130-boom-boom.jpg"
+  },
+  {
+    "id": "135",
+    "name": "Box IV",
+    "description": "Full Name: Madison Jeffries, Publisher: Gemini V",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/135-box-iv.jpg"
+  },
+  {
+    "id": "136",
+    "name": "Brainiac",
+    "description": "Full Name: Vril Dox, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/136-brainiac.jpg"
+  },
+  {
+    "id": "137",
+    "name": "Brainiac 5",
+    "description": "Full Name: Querl Dox, Publisher: DC Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/137-brainiac-5.jpg"
+  },
+  {
+    "id": "139",
+    "name": "Brundlefly",
+    "description": "Full Name: Seth Brundle, Publisher: Unknown",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/139-brundlefly.jpg"
+  },
+  {
+    "id": "140",
+    "name": "Buffy",
+    "description": "Full Name: Buffy Anne Summers, Publisher: Dark Horse Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/140-buffy.jpg"
+  },
+  {
+    "id": "141",
+    "name": "Bullseye",
+    "description": "Full Name: Lester, Publisher: Marvel Comics",
+    "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/141-bullseye.jpg"
+  }
+]

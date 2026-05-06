@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# env / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# local mongodb data
+mongodb/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# wrangler / cloudflare
+.wrangler/
+.dev.vars
